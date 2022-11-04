@@ -28,9 +28,9 @@ VERSION:3.0
 N:;;;
 FN: ᯤ 𝙅𝙖𝙧𝙤𝙩 𝙊𝙛𝙘
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6285850539404:6285850539404@s.whatsapp.net
+item1.TEL;waid=6285756448056:6285756448056@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item2.EMAIL;type=INTERNET: Jarott@gmail.com
+item2.EMAIL;type=INTERNET: ikhsanainul5@gmail.com
 item2.X-ABLabel:📫 Gmail
 item3.ADR:;;📍 Acehnese - Indonesian;;;;
 item3.X-ABADR:ac
